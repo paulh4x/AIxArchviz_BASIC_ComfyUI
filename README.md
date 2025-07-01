@@ -1,6 +1,6 @@
 # ✨ PH's Basic ComfyUI ✨
 ## 🚀 for Archviz x AI Workflow Series (SDXL + Flux) 🚀
-### v0.30_250630, <a href="https://github.com/paulh4x/AIxArchviz_BASIC_ComfyUI">PH's Basic ComfyUI</a> © 2025 by <a href="https://www.linkedin.com/in/paul-hansen-410695b6/">Paul Hansen</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+### v0.35_250701, <a href="https://github.com/paulh4x/AIxArchviz_BASIC_ComfyUI">PH's Basic ComfyUI</a> © 2025 by <a href="https://www.linkedin.com/in/paul-hansen-410695b6/">Paul Hansen</a> is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ---
 
@@ -21,7 +21,7 @@ If you want to support my work and can afford it, you can donate directly at [ht
 
 ## 🛠️ Nodes and Models
 
-Here are the nodes and models used throughout the entire workflow series.
+All the workflows are tested with the latest [ComfyUI](https://github.com/comfyanonymous/ComfyUI) v0.3.43 and [Comfyui_Frontend](https://github.com/Comfy-Org/ComfyUI_frontend) v1.23.4. Here are the nodes and models used throughout the entire workflow series.
 
 ### 🧩 Nodes
 *   **KJNodes**: [https://github.com/kijai/ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes)
