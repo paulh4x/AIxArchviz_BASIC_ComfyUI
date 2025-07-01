@@ -21,7 +21,7 @@ If you want to support my work and can afford it, you can donate directly at [ht
 
 ## 🛠️ Nodes and Models
 
-All the workflows are tested with the latest [ComfyUI](https://github.com/comfyanonymous/ComfyUI) v0.3.43 and [Comfyui_Frontend](https://github.com/Comfy-Org/ComfyUI_frontend) v1.23.4. Here are the nodes and models used throughout the entire workflow series.
+All the workflows are tested with the latest [ComfyUI](https://github.com/comfyanonymous/ComfyUI) v0.3.43 and [Comfyui_Frontend](https://github.com/Comfy-Org/ComfyUI_frontend) v1.23.4. Here are the nodes and models used throughout the entire workflow series. A ZIP-File containing everything van also be found at [Civitai.com](https://civitai.com/models/1734042/)
 
 ### 🧩 Nodes
 *   **KJNodes**: [https://github.com/kijai/ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes)
