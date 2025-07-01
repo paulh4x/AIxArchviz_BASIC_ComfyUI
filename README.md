@@ -15,7 +15,12 @@ If you want to support my work and can afford it, you can donate directly at [ht
 
 ---
 
+### 🎥 Video Tutorial
+
+<a href="https://www.youtube.com/watch?v=1GcG9ySj4ME&list=PLp6RqZwhm0sqHsX-HnKyZ_5shrCu-_xxo&index=2&ab_channel=PaulHansen" target="_blank"><img src="https://img.youtube.com/vi/1GcG9ySj4ME/0.jpg" alt="Watch the video" width="480" height="360" border="10" /></a>
+
 ## 🛠️ Nodes and Models
+
 Here are the nodes and models used throughout the entire workflow series.
 
 ### 🧩 Nodes
